@@ -13,6 +13,10 @@
     padding: 2rem;
     box-shadow: 0px 0px 6px 0px #bfbfbf;
 
+    @media only screen and (min-width: 500px) {
+      min-width: 400px;
+    }
+
     .AppLogo {
       height: 2rem;
     }
